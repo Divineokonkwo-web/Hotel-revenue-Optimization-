@@ -18,4 +18,6 @@ SHG Hotel have outlined their pressing challenge related to customer retention, 
 
 - Occupancy Management Challenge – Frequent cancellations lead to empty rooms that could otherwise generate income if managed with an effective overbooking or reallocation strategy.
 
+  ### Aims of the analysis.
+  
 
