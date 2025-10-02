@@ -1,5 +1,12 @@
 # Hotel-revenue-Optimization
 ### Table of Contents 
+- [Description](#description)
+- [Business Introduction](#business-introduction)
+- [Problem/Overview](#problem/overview)
+- [Aims of the analysis](#aims-of-the-analysis)
+- [Procedure](#procedure)
+- [Insights](#insights)
+- [Recommendation](#recommendation)
 
 ### Description
 This project analyzes booking and cancellation data from SHG Hotel Group to uncover the root causes of revenue loss during peak summer months (July & August). By exploring booking patterns, cancellation behavior, and average daily rates, the study identifies opportunities to mitigate losses and boost revenue through smarter reservation strategies.
@@ -80,7 +87,7 @@ Unoccupied rooms remain a challenge due to mismatch between cancellations and re
 
 - Unoccupied rooms remain a challenge due to mismatch between cancellations and replacement bookings.
 
-  ### Recommendations
+  ### Recommendation
 
 - Implement controlled overbooking during peak summer to offset expected cancellations.
 
