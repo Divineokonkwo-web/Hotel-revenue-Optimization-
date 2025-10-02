@@ -1,4 +1,6 @@
-# Hotel-revenue-Optimization-
+# Hotel-revenue-Optimization
+### Table of Contents 
+
 ### Description
 This project analyzes booking and cancellation data from SHG Hotel Group to uncover the root causes of revenue loss during peak summer months (July & August). By exploring booking patterns, cancellation behavior, and average daily rates, the study identifies opportunities to mitigate losses and boost revenue through smarter reservation strategies.
 
