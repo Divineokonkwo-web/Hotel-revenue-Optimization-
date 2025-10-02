@@ -27,5 +27,32 @@ SHG Hotel have outlined their pressing challenge related to customer retention, 
 - Evaluate the impact of cancellations on average daily rates and occupancy.
 
 - Propose data-driven strategies that'll be efficient for revenue maximisation while maintaining customer retention.
+  
+  ### Procedure
+
+  
+1. Data Collection & Understanding
+
+   - Obtained booking and cancellation records from SHG Hotel Group.
+
+   - Reviewed fields such as reservation date, stay date, cancellation status, revenue, and average daily rate.
+
+   - Understood seasonal trends with focus on summer months (July & August).
 
 
+
+2. Data Cleaning & Preparation
+   - Removed duplicates, handled missing values, and standardized date formats.
+
+   - Created derived variables (e.g., booking lead time, cancellation flag, revenue loss amount).
+
+   - Segmented data into advance bookings (>30 days) and same-month bookings (≤30 days).
+
+
+
+3. Exploratory Data Analysis (EDA) using pivot tables 
+
+   - Analyzed cancellation rates across months and booking lead times.
+
+   - Compared average daily rates (ADR) between cancelled vs. non-cancelled bookings.
+   - Visualized revenue gained vs. revenue lost due to cancellations.
