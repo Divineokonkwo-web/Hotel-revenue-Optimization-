@@ -11,6 +11,9 @@
 ### Description
 This project analyzes booking and cancellation data from SHG Hotel Group to uncover the root causes of revenue loss during peak summer months (July & August). By exploring booking patterns, cancellation behavior, and average daily rates, the study identifies opportunities to mitigate losses and boost revenue through smarter reservation strategies.
 
+![Hotel bookings](https://github.com/user-attachments/assets/8d00a25d-c31c-4793-a570-852fdb2517ee)
+
+
 ### Business Introduction 
 
 SHG Hotel Group is a leading hospitality brand known for delivering exceptional guest experiences across multiple destinations. With a diverse portfolio of hotels and resorts, SHG caters to both leisure and business travelers, offering premium accommodations, personalized services, and state-of-the-art facilities.Over the years, SHG has built a reputation for excellence in the hospitality industry, consistently achieving high occupancy rates during peak travel seasons while maintaining competitive pricing strategies.
